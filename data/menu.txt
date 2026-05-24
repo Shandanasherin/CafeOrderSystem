@@ -1,0 +1,11 @@
+Coffee,3.5,Drinks
+Green Tea,2.0,Drinks
+Cold Brew,4.5,Drinks
+Mango Smoothie,5.0,Drinks
+Burger,8.0,Fast Food
+Club Sandwich,6.5,Fast Food
+French Fries,3.0,Fast Food
+Chicken Wrap,7.0,Fast Food
+Chocolate Cake,4.0,Desserts
+Brownie,3.5,Desserts
+Ice Cream,2.5,Desserts
